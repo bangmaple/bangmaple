@@ -1,4 +1,4 @@
-### Ngo Nguyen Bang (BangMaple) 😎 - a fan of doing coding and researching for new thing, also a reinforcement learner.
+### Ngo Nguyen Bang (BangMaple) 😎 - a fan of doing coding and researching for knowledge, also a reinforcement learner.
 
 **bangmaple** is a ✨ _special nickname_ ✨. You can search that keyword on google and probably find something special. 🤘
 - For more information, checkout: https://blog.bangmaple.com

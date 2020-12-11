@@ -14,3 +14,5 @@
 - 📱 **React Native*** is my choice of doing cross-platform mobile app development.
 - 🖥 Current having a **CCNA Certificate** and studying for **CCNP Routing** for now...
 - ⚡ Fun fact: ***I can't drink beer or doing smoking.. 💨***
+
+![](https://komarev.com/ghpvc/?username=bangmaple)

@@ -8,6 +8,7 @@
 --------
 
 - 📚  I'm currently a last-year student at **FPT University - Ho Chi Minh City**
+- 🤓  Currently working at LogiGear Vietnam - HCMC Branch as Full-stack Software Developer position.
 - 😼  I both like Information Assurance and Software Engineering.
 - 👨‍ 💻 I've been coding in years using **Java SE** and **Java EE 8 upto 11** technologies.
 - 😚  Spring Ecosystem: Spring Framework, Spring Cloud, Spring Data, Spring Security, Spring WebFlux, Spring Web MVC, Spring I/O, Spring Validation, Spring Messaging, Spring DevOps, Spring Core, Spring Native.
